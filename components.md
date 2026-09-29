@@ -23,5 +23,3 @@ rectangle rectangle
 storage storage
 usecase usecase
 @enduml
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
