@@ -1,4 +1,3 @@
-' 〰️〰️〰️〰️COMPONENTS〰️〰️〰️〰️〰️〰️〰️〰️
 ``` plantuml
 
 @startuml
